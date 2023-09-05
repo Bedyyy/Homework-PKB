@@ -42,9 +42,10 @@ Terdapat 2 file yaitu "main.py" sebagai file kode program dan "data_pkb.xlsx" se
   - Fitur 5 untuk mengakhiri program
 
 
-### **Kekurangan Program Kami***
+### **Kekurangan Program Kami**
 
 - Jika data awal yang berada dalam channel telegram sudah memiliki klasifikasi, ketika menambahkan data baru baik itu kolom baru atau kolom yang sudah ada maka klasifikasi awalnya bisa berubah karena program kami mencari nilai median sebagai label dengan scanning seluruh data. Jadi, jika datanya bertambah / berkurang maka nilai mediannya akan berubah sehingga mempengaruhi hasil klasifikasi
+- Karena tidak ada fitur "Delete / Hapus" maka jika ingin menghapus data, harus menghapus data di Excelnya (Manual)
 - Harus menginstall library pandas di python
 - Kami tidak tahu apakah library pandas bisa membaca file dengan ekstensi yang dikeluarkan oleh LibreOffice
 - Mungkin akan terdapat beberapa exception atau warning dalam kode program kami karena deteksi IntelliSense masing-masing PC, namun kode program tetap berjalan dengan baik
