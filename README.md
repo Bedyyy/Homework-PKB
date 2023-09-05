@@ -2,7 +2,7 @@
 
 Repository untuk mengumpulkan homework PKB (Kelompok)
 
-### Anggota Kelompok
+### **Anggota Kelompok**
 
 - Muhammad Hadiid Faathir (1313621035)
 - Muhammad Shafwan Maulana (1313621022)
@@ -10,7 +10,7 @@ Repository untuk mengumpulkan homework PKB (Kelompok)
 - Riky Dermawan (1313621009)
 
 
-##### Problem Solving
+### **Problem Solving**
 
 - Jika data memiliki hanya 1 kolom (Tidak termasuk kolom "Species")
   1. Mengurutkan data
