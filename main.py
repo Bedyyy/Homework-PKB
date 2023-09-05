@@ -48,7 +48,7 @@ while(loop):
         print(tampilkan_data)
         print(" ")
     elif(input_program == 2):
-        print("1")
+        print("Maaf, fitur ini belum tersedia. Silahkan coba fitur lain")
     elif(input_program == 3):
         data_baru = []
         nama_kolom_baru = input("Masukkan Nama Kolom Baru: ")
