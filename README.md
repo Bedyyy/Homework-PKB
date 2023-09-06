@@ -52,7 +52,8 @@ Terdapat 2 file yaitu "main.py" sebagai file kode program dan "data_pkb.xlsx" se
 
 ### **Video Demonstrasi**
 
-Karena dikhawatirkan terjadi kesalahpahaman dalam penjelasan kami, maka kami memutuskan untuk membuat "Video Demonstrasi" guna menjelaskan keseluruhan program kami. Video Demonstrasi akan kami upload **paling lambat Rabu, 6 September 2023 (Besok) di repositori ini**
+Karena dikhawatirkan terjadi kesalahpahaman dalam penjelasan kami, maka kami memutuskan untuk membuat "Video Demonstrasi" guna menjelaskan keseluruhan program kami. Berikut adalah linknya: 
+https://drive.google.com/drive/folders/1F9USb0b6qRpxqM2X-rNuytPns6C1_WqD?usp=sharing
 
 ## **Akhir Kata**
 
